@@ -17,21 +17,6 @@ Covers Regular Public Transport (RPT) air services between Australian airports. 
 
 Covers monthly data from January 1984 to December 2019.
 
-| Columns               | Description |
-| --------------------- | ----------- |
-| City1                 | Departure   |
-| City2                 | Destination |
-| Month                 |             |
-| Passenger_Trips       |             |
-| Aircraft_Trips        |             |
-| Passenger_Load_Factor |             |
-| Distance_GC_(km)      |             |
-| RPKs                  |             |
-| ASKs                  |             |
-| Seats                 |             |
-| Year                  |             |
-| Month_num             |             |
-
 ## Technologies
 
 - Pandas
